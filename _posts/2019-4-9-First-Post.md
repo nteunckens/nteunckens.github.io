@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Post
+published: true
 ---
 
 I'm not sure whether I will ever actually do some Blogging or not.
