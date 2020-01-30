@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## My year of (S/4)HANA
 
